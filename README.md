@@ -11,7 +11,7 @@ Logga in på ditt Azomo-konto. Lär dig att hitta information om din nuvarande k
 Surfa till www.github.com och skapa ett konto. Detta konto kommer du att använda kontinuerligt under hela utbildningens gång.
 
 ## Discord
-Ladda ner Discord och skapa ett konto. Gå med i utbildningens server: https://discord.gg/YuWbHRvP
+Ladda ner Discord och skapa ett konto. Gå med i utbildningens server: https://discord.gg/wKB75qx2
 Lär dig sedan hur man: 
 * Skickar ett meddelande
 * Skickar en bild i en textkanal
